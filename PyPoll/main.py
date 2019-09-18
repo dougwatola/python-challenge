@@ -1,3 +1,6 @@
+#PyPoll Application
+#Doug Watola
+
 import os
 import csv
 import operator
