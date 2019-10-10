@@ -8,8 +8,8 @@ import operator
 #election_data_path = os.path.join("C:/Users/dougw/Python-Challenge/", "election_data.csv")
 #outPath = os.path.join("C:/Users/dougw/Python-Challenge/", "election_results.txt")
 
-election_data_path = "./election_data.csv"
-outPath = "./election_results.txt"
+election_data_path = "./Resources/election_data.csv"
+outPath = "./Resources/election_results.txt"
 
 #=======================================================
 #Read election csv file and derive unique list of canidates
