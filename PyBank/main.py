@@ -11,8 +11,8 @@ def average(list):
     return sum(list)/len(list)
 
 #Set the path for input budget file
-budgetpath = os.path.join("C:/Users/dougw/Python-Challenge/", "budget_1.csv")
-outPath = os.path.join("C:/Users/dougw/Python-Challenge/", "budgetanalysis.txt")
+budgetpath = ("./Resources/budget_1.csv")
+outPath = ("./Resources/budgetanalysis.txt")
 #=======================================================
 #Read budget csv file and derive sum of profit and average profit
 #=======================================================
