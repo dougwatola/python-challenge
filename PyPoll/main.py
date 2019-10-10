@@ -5,8 +5,6 @@ import os
 import csv
 import operator
 
-#election_data_path = os.path.join("C:/Users/dougw/Python-Challenge/", "election_data.csv")
-#outPath = os.path.join("C:/Users/dougw/Python-Challenge/", "election_results.txt")
 
 election_data_path = "./Resources/election_data.csv"
 outPath = "./Resources/election_results.txt"
